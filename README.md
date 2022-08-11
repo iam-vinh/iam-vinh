@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinh</h1>
-<h3 align="center">A passionate Software developer from Vietnam with having an experience of building Web and Application for mobile, desktop with Javascript/ TypeScript / Angular/ Qt/Qml/ NodeJs and some other cool libraries and framework.</h3>
+<h3 align="center">A passionate Software developer from Vietnam with having an experience of building Web and Application for mobile, desktop using Javascript/ TypeScript / Angular/ Qt/Qml/ NodeJs and some other cool libraries and framework.</h3>
 
 - 🔭 I’m currently working on **Smartec Iot Platform**
 
